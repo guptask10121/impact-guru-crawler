@@ -1,4 +1,4 @@
-# impact-guru-crawler
+# Impact Guru crawler
 
 # Description
 This crawler will crawl each category of impactguru fundraisers page url: https://www.impactguru.com/fundraisers (including pagination).
