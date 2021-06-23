@@ -8,7 +8,7 @@ This crawler will crawl each category of impactguru fundraisers page url: https:
   Free Anonymous proxies taken from https://www.sslproxies.org/
   We can use paid version, so the proxy won't expire.
 
-- Multi-threading
+- Multi-threading:
   With the help of multi-threading this crawler will crawl around 281 records in less than 2 minutes.
 
 # Requirements:
