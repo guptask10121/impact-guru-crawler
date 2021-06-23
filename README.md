@@ -5,7 +5,7 @@ This crawler will crawl each category of impactguru fundraisers page url: https:
 
 # Advantages:
 - Proxies:
-  Free Anonymous proxies taken from https://www.sslproxies.org/
+  Free Anonymous proxies taken from https://www.sslproxies.org/.
   We can use paid version, so the proxy won't expire.
 
 - Multi-threading:
